@@ -35,14 +35,20 @@ public class ApplicationController {
         return applicationService.query();
     }
 
+    @GetMapping("/agent/{id}")
+    public List<Application> queryByAgentId(@PathVariable Long id) {
+        return applicationService.findByAgentId(id);
+    }
+
     @GetMapping("/{id}")
     public Application query(@PathVariable Long id) {
         return applicationService.query(id);
     }
 
-    @PostMapping()
-    public Application create(@Valid @RequestBody Application application) {
-        return applicationService.save(application);
+    @PostMapping("/agent/{agentId}")
+    public Application create(@PathVariable() Long agentId, @Valid @RequestBody Application application) throws IOException {
+        application.setId(null);
+        return applicationService.save(agentId, application);
     }
 
     @PutMapping("/{id}")
@@ -51,11 +57,11 @@ public class ApplicationController {
 
         Application application = applicationService.query(id);
         application.setFields(applicationDetails.getFields());
-        return applicationService.save(application);
+        return applicationService.save( application);
     }
 
-    @GetMapping("/getDocument/{id}")
-    public ResponseEntity<Resource> downloadFile(@PathVariable Long id,
+    @GetMapping("/{id}/downloadDocument")
+    public ResponseEntity<Resource> downloadDocument(@PathVariable Long id,
                                                  HttpServletRequest request) throws IOException {
         Application application = applicationService.getDocument(id);
         Resource resource = new ByteArrayResource(application.getData());

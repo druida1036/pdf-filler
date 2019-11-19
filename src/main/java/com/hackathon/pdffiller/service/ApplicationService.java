@@ -21,7 +21,6 @@ import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.List;
@@ -44,7 +43,7 @@ public class ApplicationService {
         this.agentRepository = agentRepository;
     }
 
-    public Application getDocument(Long id){
+    public Application getDocument(Long id) {
         Application application = query(id);
         application.setFields(documentFieldRepository.findByApplicationId(application.getId()));
         String formTemplate = "src/main/resources/templates/form.pdf";
@@ -85,10 +84,10 @@ public class ApplicationService {
             PDAcroForm acroForm = pdfDocument.getDocumentCatalog().getAcroForm();
             Optional<Application> result = applicationRepository.findByName(source.getName());
             Application application;
-            Queue<DocumentField> documentFields = new ConcurrentLinkedQueue<DocumentField>();
+            Queue<DocumentField> documentFields = new ConcurrentLinkedQueue<>();
             if (result.isPresent()) {
                 application = result.get();
-                documentFields = new ConcurrentLinkedQueue<DocumentField>(application.getFields());
+                documentFields = new ConcurrentLinkedQueue<>(application.getFields());
             } else {
                 application = Application.builder()
                         .applicantName("Juan Perez")
@@ -97,7 +96,6 @@ public class ApplicationService {
                         .data(Files.readAllBytes(Paths.get(source.toURI())))
                         .build();
             }
-
 
             List<PDField> fields = acroForm.getFields();
             for (PDField field : fields) {
@@ -109,9 +107,10 @@ public class ApplicationService {
             pdfDocument.save(outputStream);
             application.setData(outputStream.toByteArray());
             agent.addApplications(application);
+            application.setAgent(agent);
 
             agentRepository.save(agent);
-            return null;
+            return application;
         }
     }
 
@@ -121,11 +120,23 @@ public class ApplicationService {
 
     public Application query(Long id) {
         return applicationRepository.findById(id).map(r -> r)
-                .orElseThrow(() -> new RuntimeException("Application id "+id+" not found"));
+                .orElseThrow(() -> new RuntimeException("Application id " + id + " not found"));
+    }
+
+    public Application save(Long agentId, Application application) throws IOException {
+        Agent agent = agentRepository.findById(agentId).map(r -> r)
+                .orElseThrow(() -> new RuntimeException("Agent id " + agentId + " not found"));
+        String formTemplate = "src/main/resources/templates/form.pdf";
+        File formDocument = new File(formTemplate);
+        return createDocument(agent, formDocument);
     }
 
     public Application save(Application application) {
         return applicationRepository.save(application);
+    }
+
+    public List<Application> findByAgentId(Long id) {
+        return applicationRepository.findByAgentId(id);
     }
 
     private void list(PDField field, Queue<DocumentField> fieldList, Application document) throws IOException {
@@ -136,7 +147,7 @@ public class ApplicationService {
                 list(child, fieldList, document);
             }
         } else {
-            DocumentField documentField = null;
+            DocumentField documentField;
             if (field instanceof PDTextField) {
                 field.setValue("Default Test");
                 documentField = getDocumentField(document, field, "Default Test", field.getAlternateFieldName(), "Default Test");
@@ -149,13 +160,13 @@ public class ApplicationService {
                         values[0].toString(),
                         field.getAlternateFieldName(), Arrays.toString(values));
                 field.setValue(values[0].toString());
-            } else if ( field instanceof PDSignatureField){
+            } else if (field instanceof PDSignatureField) {
                 documentField = getDocumentField(document, field, "1", field.getAlternateFieldName(), "1");
             } else {
                 documentField = getDocumentField(document, field, "1", field.getAlternateFieldName(), "1");
             }
 
-            if(!fieldList.contains(documentField)){
+            if (!fieldList.contains(documentField)) {
                 fieldList.add(documentField);
             }
 
@@ -173,5 +184,6 @@ public class ApplicationService {
                 .referenceValue(referenceValue)
                 .build();
     }
-
 }
+
+

@@ -35,6 +35,7 @@ public class AgentController {
 
     @PostMapping()
     public Agent create(@Valid @RequestBody Agent agent) {
+        agent.setId(null);
         return agentRepository.save(agent);
     }
 }
