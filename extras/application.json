@@ -1,0 +1,4085 @@
+{
+  "id": 1,
+  "applicantName": "Juan Perez",
+  "name": "document.pdf",
+  "type": "application/pdf",
+  "fields": [
+    {
+      "id": 1,
+      "name": "chkB_OrallyIn[0]",
+      "nameDocument": "Indicate the language requirement stated in the offer of employment; The offer of employment requires the ability to communicate orally in:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page4[0].chkB_OrallyIn[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 2,
+      "name": "txtF_Country3[0]",
+      "nameDocument": "Worker number  3 : Location of primary residence outside Canada; Country",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page12[0].txtF_Country3[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 3,
+      "name": "txtF_Family_Name1[0]",
+      "nameDocument": "Worker number 1 ; Last Name (as shown on the individual's passport:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page12[0].txtF_Family_Name1[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 4,
+      "name": "TextField1[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 1 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table1[0].Row1[0].TextField1[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 5,
+      "name": "txtF_City2[0]",
+      "nameDocument": "Primary Work Location; city",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].txtF_City2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 6,
+      "name": "DateField4[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 2 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].Table1[0].Row2[0].DateField4[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 7,
+      "name": "DateField1[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 1 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table3[0].Row1[0].DateField1[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 8,
+      "name": "DateField9[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 5 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table2[0].Row5[0].DateField9[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 9,
+      "name": "txtF_alternate_phone[0]",
+      "nameDocument": "Alternate Telephone Number and Extension",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page1[0].txtF_alternate_phone[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 10,
+      "name": "chkB_french2[0]",
+      "nameDocument": "Indicate the language requirement stated in the offer of employment; The offer of employment requires the ability to communicate in writing in: French",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page4[0].chkB_french2[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 11,
+      "name": "txtF_Province2[0]",
+      "nameDocument": "Mailing Address (if different from business address); Province/Territory/State",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page3[0].txtF_Province2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 12,
+      "name": "TextField10[0]",
+      "nameDocument": "Column 2 of 4; Target; row 5 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table1[0].Row5[0].TextField10[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 13,
+      "name": "TextField4[0]",
+      "nameDocument": "Column 2 of 4; Target; row 2 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table2[0].Row2[0].TextField4[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 14,
+      "name": "txtF_Mail_Adress2[0]",
+      "nameDocument": "Business Address - Line 2",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].txtF_Mail_Adress2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 15,
+      "name": "TextField7[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 4 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table2[0].Row4[0].TextField7[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 16,
+      "name": "rb_conflict[1]",
+      "nameDocument": "Does your organisation have an active Labour Market Benefits Plan?",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDRadioButton",
+      "path": "EMP5624_E[0].Page6[0].rb_conflict[1]",
+      "value": "1",
+      "referenceValue": "[1, 2]"
+    },
+    {
+      "id": 17,
+      "name": "cb_registred[0]",
+      "nameDocument": "Organization type and structure (select all that apply); Other; registered charity",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page2[0].cb_registred[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 18,
+      "name": "DateField9[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 5 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table2[0].Row5[0].DateField9[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 19,
+      "name": "Temporary_foreign_worker5[0]",
+      "nameDocument": "Worker number 5; If the TFW is currently in Canada, please indicate their immigration status: Temporary Foreign Worker",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page13[0].Temporary_foreign_worker5[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 20,
+      "name": "txtF_City2[1]",
+      "nameDocument": "Other work location(s); City",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].txtF_City2[1]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 21,
+      "name": "TextField1[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 1 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].Table1[0].Row1[0].TextField1[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 22,
+      "name": "DateField3[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 2 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table1[0].Row2[0].DateField3[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 23,
+      "name": "DateField1[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 1 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table3[0].Row1[0].DateField1[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 24,
+      "name": "DateField7[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 4 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].Table1[0].Row4[0].DateField7[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 25,
+      "name": "No_inn[0]",
+      "nameDocument": "Are you an innovative employer referred to the Global Talent Stream by an ESDC Designated Referral Partner?;  No - you are not eligible to apply for an LMIA using this Global Talent Stream LMIA application form. Please visit the TFW.\rProgram website for further information on other program streams.",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page1[0].No_inn[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 26,
+      "name": "TextField10[0]",
+      "nameDocument": "Column 2 of 4; Target; row 5 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table1[0].Row5[0].TextField10[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 27,
+      "name": "txtF_Country1b[0]",
+      "nameDocument": "Worker number 1 : Location of residence if TFW is currently in Canada; Country",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page12[0].txtF_Country1b[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 28,
+      "name": "txtF_Province2[0]",
+      "nameDocument": "Mailing Address if different from business address; Province/Territory/State",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].txtF_Province2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 29,
+      "name": "rb_Gender3[0]",
+      "nameDocument": "Worker number 3 : Gender",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDRadioButton",
+      "path": "EMP5624_E[0].Page12[0].rb_Gender3[0]",
+      "value": "1",
+      "referenceValue": "[1, 2]"
+    },
+    {
+      "id": 30,
+      "name": "chkB_TheOffer2[0]",
+      "nameDocument": "Indicate the language requirement stated in the offer of employment;",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page4[0].chkB_TheOffer2[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 31,
+      "name": "TextField4[0]",
+      "nameDocument": "Column 2 of 4; Target; row 2 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table2[0].Row2[0].TextField4[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 32,
+      "name": "txtF_other_mid_name2[0]",
+      "nameDocument": "Middle Name:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].txtF_other_mid_name2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 33,
+      "name": "txtF_where[0]",
+      "nameDocument": "Provide the exact location of the TFW(s) primary work location:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].txtF_where[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 34,
+      "name": "txtF_Mail_Adress1[0]",
+      "nameDocument": "Business Address - Line 1",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].txtF_Mail_Adress1[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 35,
+      "name": "cb_society[0]",
+      "nameDocument": "Organization type and structure (select all that apply); Business: corporation",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page2[0].cb_society[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 36,
+      "name": "TextField7[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 4 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table2[0].Row4[0].TextField7[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 37,
+      "name": "txtF_yes_add_info[0]",
+      "nameDocument": "Did you convert the wage from a monthly or yearly salary, or a currency other than Canadian dollars, or both?; If yes, provide calculations used to obtain hourly Canadian dollar wage",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page5[0].txtF_yes_add_info[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 38,
+      "name": "visitor3[0]",
+      "nameDocument": "Worker number 3; If the TFW is currently in Canada, please indicate their immigration status: Visitor",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page12[0].visitor3[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 39,
+      "name": "txtF_Mail_Adress2-1[0]",
+      "nameDocument": "Mailing Address (if different from business address); Line 1:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page3[0].txtF_Mail_Adress2-1[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 40,
+      "name": "txtF_other_alternate_phone2[0]",
+      "nameDocument": "Alternate Telephone Number and Extension",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page3[0].txtF_other_alternate_phone2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 41,
+      "name": "DateField6[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 3 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table2[0].Row3[0].DateField6[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 42,
+      "name": "txtF_Processing_Fee[0]",
+      "nameDocument": "X $1,000 = TOTAL, processing fee payment of $ CAD",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page11[0].txtF_Processing_Fee[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 43,
+      "name": "txtF_last_name2[0]",
+      "nameDocument": "Last Name:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].txtF_last_name2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 44,
+      "name": "Yes_inn[0]",
+      "nameDocument": "Are you an innovative employer referred to the Global Talent Stream by an ESDC Designated Referral Partner?; Yes",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page1[0].Yes_inn[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 45,
+      "name": "DateField10[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 5 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table3[0].Row5[0].DateField10[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 46,
+      "name": "TextField12[0]",
+      "nameDocument": "Column 2 of 4; Target; row 6 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table3[0].Row6[0].TextField12[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 47,
+      "name": "txtF_City5b[0]",
+      "nameDocument": "Worker number 5; Location of residence if TFW is currently in Canada; City",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page13[0].txtF_City5b[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 48,
+      "name": "chkB_TheOffer[0]",
+      "nameDocument": "Indicate the language requirement stated in the offer of employment; The offer of employment requires the ability to communicate in writing in:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page4[0].chkB_TheOffer[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 49,
+      "name": "TextField2[0]",
+      "nameDocument": "Column 2 of 4; Target; row 1 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].Table1[0].Row1[0].TextField2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 50,
+      "name": "txtF_Country1b[1]",
+      "nameDocument": "Worker number 3 : Location of residence if TFW is currently in Canada; Country",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page12[0].txtF_Country1b[1]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 51,
+      "name": "txtF_No_add_info[0]",
+      "nameDocument": "Will the hiring of the TFW in the position being requested in this application lead to job losses, or a reduction in work hours now or in the foreseeable future for Canadian/permanent resident employees in your workforce or to the Canadian workforce more generally as a result of lay-offs including those resulting from outsourcing, off-shoring or other factors related to utilizing the TFW?; If yes, provide details on the impact of hiring this TFW on your workforce and the Canadian workforce more generally:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page5[0].txtF_No_add_info[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 52,
+      "name": "txtF_Family_Name2[0]",
+      "nameDocument": "Worker number 2 ; Last Name (as shown on the individual's passport:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page12[0].txtF_Family_Name2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 53,
+      "name": "DateField10[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 5 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table3[0].Row5[0].DateField10[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 54,
+      "name": "cb_CCRC[0]",
+      "nameDocument": "A member of the Immigration Consultants of Canada Regulatory Council (ICCRC)",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page3[0].cb_CCRC[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 55,
+      "name": "txtF_commercial_name[0]",
+      "nameDocument": "Business operating name of this work location:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].txtF_commercial_name[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 56,
+      "name": "TextField12[0]",
+      "nameDocument": "Column 2 of 4; Target; row 6 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table2[0].Row6[0].TextField12[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 57,
+      "name": "txtF_advantage1[2]",
+      "nameDocument": "Which complementary benefit will be achieved by hiring a TFW for the position identified in this application?",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].txtF_advantage1[2]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 58,
+      "name": "txtF_where[1]",
+      "nameDocument": "Provide the exact location of any other work locations for this job offer (attach a separate page if required):",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].txtF_where[1]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 59,
+      "name": "TextField12[0]",
+      "nameDocument": "Column 2 of 4; Target; row 6 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table3[0].Row6[0].TextField12[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 60,
+      "name": "txtF_Other_specify[0]",
+      "nameDocument": "Is the third-party being paid by the employer to represent them for the purpose of obtaining this Labour Market Impact Assessment (LMIA)?; Yes - If yes, which one applies to the Third-Party apply?; Other (please describe)",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page3[0].txtF_Other_specify[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 61,
+      "name": "DateField3[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 2 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].Table1[0].Row2[0].DateField3[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 62,
+      "name": "rb_TET_empl[0]",
+      "nameDocument": "Will the hiring of the TFW in the position being requested in this application lead to job losses, or a reduction in work hours now or in the foreseeable future for Canadian/permanent resident employees in your workforce or to the Canadian workforce more generally as a result of lay-offs including those resulting from outsourcing, off-shoring or other factors related to utilizing the TFW?",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDRadioButton",
+      "path": "EMP5624_E[0].Page5[0].rb_TET_empl[0]",
+      "value": "1",
+      "referenceValue": "[1, 2]"
+    },
+    {
+      "id": 63,
+      "name": "DateField4[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 2 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table1[0].Row2[0].DateField4[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 64,
+      "name": "TextField1[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 1 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table1[0].Row1[0].TextField1[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 65,
+      "name": "cb_Other_member[0]",
+      "nameDocument": "Other (please describe):",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page3[0].cb_Other_member[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 66,
+      "name": "txtF_Signature_E[0]",
+      "nameDocument": "Signature of the cardholder is mandatory when the form is completed.",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page11[0].txtF_Signature_E[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 67,
+      "name": "TextField9[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 5 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table3[0].Row5[0].TextField9[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 68,
+      "name": "DateField7[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 4 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table1[0].Row4[0].DateField7[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 69,
+      "name": "TextField12[0]",
+      "nameDocument": "Column 2 of 4; Target; row 6 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table2[0].Row6[0].TextField12[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 70,
+      "name": "visitor4[0]",
+      "nameDocument": "Worker number 4; If the TFW is currently in Canada, please indicate their immigration status: Visitor",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page13[0].visitor4[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 71,
+      "name": "rb_conflict[0]",
+      "nameDocument": "Is there a labour dispute in progress at the job location?",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDRadioButton",
+      "path": "EMP5624_E[0].Page6[0].rb_conflict[0]",
+      "value": "1",
+      "referenceValue": "[1, 2]"
+    },
+    {
+      "id": 72,
+      "name": "student[0]",
+      "nameDocument": "Worker number 1; If the TFW is currently in Canada, please indicate their immigration status: Student",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page12[0].student[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 73,
+      "name": "TextField8[0]",
+      "nameDocument": "Column 2 of 4; Target; row 4 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table2[0].Row4[0].TextField8[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 74,
+      "name": "txtF_Date_of_Birth1[0]",
+      "nameDocument": "Worker number 1 :  Date of birth ( Year - Month - Day )",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page12[0].txtF_Date_of_Birth1[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 75,
+      "name": "rb_tiers[0]",
+      "nameDocument": "Are you appointing a third-party to represent you in completing this application or to provide advice in an immigration process?",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDRadioButton",
+      "path": "EMP5624_E[0].Page2[0].rb_tiers[0]",
+      "value": "1",
+      "referenceValue": "[1, 2]"
+    },
+    {
+      "id": 76,
+      "name": "DateField2[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 1 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table3[0].Row1[0].DateField2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 77,
+      "name": "Temporary_foreign_worker4[0]",
+      "nameDocument": "Worker number 4; If the TFW is currently in Canada, please indicate their immigration status: Temporary Foreign Worker",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page13[0].Temporary_foreign_worker4[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 78,
+      "name": "TextField2[0]",
+      "nameDocument": "Column 2 of 4; Target; row 1 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table1[0].Row1[0].TextField2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 79,
+      "name": "txtF_CRA_Business_Number[0]",
+      "nameDocument": "Canada Revenue Agency Business Number:\n(The 15 digits are mandatory for Canadian employers)",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page11[0].txtF_CRA_Business_Number[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 80,
+      "name": "TextField10[0]",
+      "nameDocument": "Column 2 of 4; Target; row 5 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table2[0].Row5[0].TextField10[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 81,
+      "name": "TextField11[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 6 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table1[0].Row6[0].TextField11[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 82,
+      "name": "txtF_Citizenship4[0]",
+      "nameDocument": "Worker number 4; Citizenship(s)",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page13[0].txtF_Citizenship4[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 83,
+      "name": "txtF_Remuneration[0]",
+      "nameDocument": "Vacation (if applicable); remuneration (percentage of gross salary)",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page5[0].txtF_Remuneration[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 84,
+      "name": "txtF_Mail_Adress1[0]",
+      "nameDocument": "Business address; Line 1:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page3[0].txtF_Mail_Adress1[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 85,
+      "name": "rb_Gender2[0]",
+      "nameDocument": "Worker number 2 : Gender",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDRadioButton",
+      "path": "EMP5624_E[0].Page12[0].rb_Gender2[0]",
+      "value": "1",
+      "referenceValue": "[1, 2]"
+    },
+    {
+      "id": 86,
+      "name": "txtF_principal_activity[0]",
+      "nameDocument": "Describe in your own words and in as much details as possible the principal business activity at this work location:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].txtF_principal_activity[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 87,
+      "name": "txtF_Citizenship3[0]",
+      "nameDocument": "Worker number 3 : Citizenship(s)",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page12[0].txtF_Citizenship3[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 88,
+      "name": "txtF_Country2b[0]",
+      "nameDocument": "Worker number 2 : Location of residence if TFW is currently in Canada; Country",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page12[0].txtF_Country2b[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 89,
+      "name": "txtF_Mail_Adress2-2[0]",
+      "nameDocument": "Mailing Address (if different from business address); Line 2:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page3[0].txtF_Mail_Adress2-2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 90,
+      "name": "TextField5[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 3 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table1[0].Row3[0].TextField5[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 91,
+      "name": "txtF_month[0]",
+      "nameDocument": "How many hours will the TFW work each (choose one)? Month",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page5[0].txtF_month[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 92,
+      "name": "txtF_Date_of_Birth4[0]",
+      "nameDocument": "Worker number 4;  Date of birth ( Year - Month - Day )",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page13[0].txtF_Date_of_Birth4[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 93,
+      "name": "chkB_no_employees[0]",
+      "nameDocument": "What is the wage range for all employees currently working in this occupation at this work location?; There are no employees currently working in this occupation at this work location.",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page5[0].chkB_no_employees[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 94,
+      "name": "TextField5[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 3 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table1[0].Row3[0].TextField5[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 95,
+      "name": "txtF_business_revenu[0]",
+      "nameDocument": "What is the annual gross revenue of the business (in $CAD)",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].txtF_business_revenu[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 96,
+      "name": "txtF_number_days[0]",
+      "nameDocument": "Expected employment duration:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page4[0].txtF_number_days[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 97,
+      "name": "txtF_week[0]",
+      "nameDocument": "How many hours will the TFW work each (choose one)? Week",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page5[0].txtF_week[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 98,
+      "name": "txtF_Applicant_Name[0]",
+      "nameDocument": "Employer primary contact name:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page11[0].txtF_Applicant_Name[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 99,
+      "name": "txtF_Law_member_prov[0]",
+      "nameDocument": "Is the third-party being paid by the employer to represent them for the purpose of obtaining this Labour Market Impact Assessment (LMIA)?; Yes - If yes, which one applies to the Third-Party apply?; A member of the following province/territory",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page3[0].txtF_Law_member_prov[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 100,
+      "name": "DateField3[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 2 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table1[0].Row2[0].DateField3[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 101,
+      "name": "cb_org_member[0]",
+      "nameDocument": "Is the third-party being paid by the employer to represent them for the purpose of obtaining this Labour Market Impact Assessment (LMIA)?; No - If no, which one applies from these options?; a member of a non-governmental or a religious organization",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page3[0].cb_org_member[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 102,
+      "name": "rb_other_anguage_written2[0]",
+      "nameDocument": "Preferred Official Language of Written Communication:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDRadioButton",
+      "path": "EMP5624_E[0].Page3[0].rb_other_anguage_written2[0]",
+      "value": "1",
+      "referenceValue": "[1, 2]"
+    },
+    {
+      "id": 103,
+      "name": "txtF_City2[0]",
+      "nameDocument": "Mailing Address (if different from business address); City",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page3[0].txtF_City2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 104,
+      "name": "cb_sole_propietor[0]",
+      "nameDocument": "Organization type and structure (select all that apply); Business: co-operative",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page2[0].cb_sole_propietor[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 105,
+      "name": "visitor5[0]",
+      "nameDocument": "Worker number 5; If the TFW is currently in Canada, please indicate their immigration status: Visitor",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page13[0].visitor5[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 106,
+      "name": "rb_language_written2[0]",
+      "nameDocument": "Preferred Official Language of Written Communication:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDRadioButton",
+      "path": "EMP5624_E[0].Page2[0].rb_language_written2[0]",
+      "value": "1",
+      "referenceValue": "[1, 2]"
+    },
+    {
+      "id": 107,
+      "name": "DateField8[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 4 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table1[0].Row4[0].DateField8[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 108,
+      "name": "DateField8[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 4 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table3[0].Row4[0].DateField8[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 109,
+      "name": "txtF_last_name[0]",
+      "nameDocument": "Last Name:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page1[0].txtF_last_name[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 110,
+      "name": "rb_tiers[0]",
+      "nameDocument": "Is the third-party being paid by the employer to represent them for the purpose of obtaining this Labour Market Impact Assessment (LMIA)?:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDRadioButton",
+      "path": "EMP5624_E[0].Page3[0].rb_tiers[0]",
+      "value": "1",
+      "referenceValue": "[1, 2]"
+    },
+    {
+      "id": 111,
+      "name": "TextField3[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 2 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table2[0].Row2[0].TextField3[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 112,
+      "name": "TextField8[0]",
+      "nameDocument": "Column 2 of 4; Target; row 4 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table1[0].Row4[0].TextField8[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 113,
+      "name": "txtF_City4b[0]",
+      "nameDocument": "Worker number 4; Location of residence if TFW is currently in Canada; City",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page13[0].txtF_City4b[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 114,
+      "name": "txtF_mid_name2[0]",
+      "nameDocument": "Middle Name:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page1[0].txtF_mid_name2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 115,
+      "name": "txtF_Applicant_Name[1]",
+      "nameDocument": "Last 4 digits of credit card:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page11[0].txtF_Applicant_Name[1]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 116,
+      "name": "rb_language_written2[0]",
+      "nameDocument": "Preferred Official Language of Written Communication:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDRadioButton",
+      "path": "EMP5624_E[0].Page1[0].rb_language_written2[0]",
+      "value": "1",
+      "referenceValue": "[1, 2]"
+    },
+    {
+      "id": 117,
+      "name": "txtF_hour_week[0]",
+      "nameDocument": "What is the overtime wage in Canadian dollars per hour being offered to the TFW (if applicable)? or how many hours per day",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page5[0].txtF_hour_week[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 118,
+      "name": "txtF_Month[1]",
+      "nameDocument": "Expiry Date of credit card (Month)",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page11[0].txtF_Month[1]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 119,
+      "name": "txtF_justification[0]",
+      "nameDocument": "Employment duration rationale:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page4[0].txtF_justification[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 120,
+      "name": "txtF_City3[0]",
+      "nameDocument": "Worker number  3 : Location of primary residence outside Canada; City",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page12[0].txtF_City3[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 121,
+      "name": "TextField6[0]",
+      "nameDocument": "Column 2 of 4; Target; row 3 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table1[0].Row3[0].TextField6[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 122,
+      "name": "TextField11[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 6 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table3[0].Row6[0].TextField11[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 123,
+      "name": "txtF_Mail_Adress2[0]",
+      "nameDocument": "Business address; Line 2:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page3[0].txtF_Mail_Adress2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 124,
+      "name": "Yes_E[0]",
+      "nameDocument": "Have you tried to recruit Canadians/permanent residents prior to submitting your application for this job?; Yes - Please describe your efforts to recruit Canadians/permanent residents:                                       ",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page4[0].Yes_E[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 125,
+      "name": "rb_salary_conversion[0]",
+      "nameDocument": "Did you convert the wage from a monthly or yearly salary, or a currency other than Canadian dollars, or both?",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDRadioButton",
+      "path": "EMP5624_E[0].Page5[0].rb_salary_conversion[0]",
+      "value": "1",
+      "referenceValue": "[1, 2]"
+    },
+    {
+      "id": 126,
+      "name": "txtF_Date_E[0]",
+      "nameDocument": "Expected employment start date    (Year - Month - Day)",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page4[0].txtF_Date_E[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 127,
+      "name": "txtF_Date_of_Birth5[0]",
+      "nameDocument": "Worker number 5;  Date of birth ( Year - Month - Day )",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page13[0].txtF_Date_of_Birth5[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 128,
+      "name": "DateField2[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 1 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table2[0].Row1[0].DateField2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 129,
+      "name": "DateField5[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 3 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table3[0].Row3[0].DateField5[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 130,
+      "name": "No_business[0]",
+      "nameDocument": "Does the occupation of the position(s) you are seeking to fill appear on the Global Talent Occupations List that has been published on the TFW Program website?; No - Proceed to next question",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page1[0].No_business[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 131,
+      "name": "txtF_Card_Number[0]",
+      "nameDocument": "Credit card number:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page11[0].txtF_Card_Number[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 132,
+      "name": "rb_Gender1[0]",
+      "nameDocument": "Worker number 1 : Gender",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDRadioButton",
+      "path": "EMP5624_E[0].Page12[0].rb_Gender1[0]",
+      "value": "1",
+      "referenceValue": "[1, 2]"
+    },
+    {
+      "id": 133,
+      "name": "TextField6[0]",
+      "nameDocument": "Column 2 of 4; Target; row 3 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table3[0].Row3[0].TextField6[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 134,
+      "name": "txtF_fax_number[0]",
+      "nameDocument": "Fax Number:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page1[0].txtF_fax_number[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 135,
+      "name": "TextField11[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 6 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table2[0].Row6[0].TextField11[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 136,
+      "name": "chkB_French1[0]",
+      "nameDocument": "Indicate the language requirement stated in the offer of employment; The offer of employment requires the ability to communicate orally in: French",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page4[0].chkB_French1[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 137,
+      "name": "Temporary_foreign_worker3[0]",
+      "nameDocument": "Worker number 3; If the TFW is currently in Canada, please indicate their immigration status: Temporary Foreign Worker",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page12[0].Temporary_foreign_worker3[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 138,
+      "name": "rb_language_oral2[0]",
+      "nameDocument": "Preferred Official Language of Oral Communication:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDRadioButton",
+      "path": "EMP5624_E[0].Page2[0].rb_language_oral2[0]",
+      "value": "1",
+      "referenceValue": "[1, 2]"
+    },
+    {
+      "id": 139,
+      "name": "txtF_low_wage[0]",
+      "nameDocument": "What is the wage range for all employees currently working in this occupation at this work location? Low-wage (dollars per hour)",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page5[0].txtF_low_wage[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 140,
+      "name": "TextField2[0]",
+      "nameDocument": "Column 2 of 4; Target; row 1 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table3[0].Row1[0].TextField2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 141,
+      "name": "txtF_fax_number2[0]",
+      "nameDocument": "Fax Number:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].txtF_fax_number2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 142,
+      "name": "txtF_other_last_name2[0]",
+      "nameDocument": "Last Name:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].txtF_other_last_name2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 143,
+      "name": "RadioButtonList[0]",
+      "nameDocument": "Minimum education requirements of the job;",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDRadioButton",
+      "path": "EMP5624_E[0].Page4[0].RadioButtonList[0]",
+      "value": "Doctorate/PhD",
+      "referenceValue": "[Doctorate/PhD, Doctor of Medicine, Master's degree, Bachelor's degree, College level diploma/certificate, Apprenticeship diploma/certificate, Trade diploma/certificate, Secondary school, Vocational school diploma/certificate, No formal education requirement]"
+    },
+    {
+      "id": 144,
+      "name": "txtF_Today_Date_1[1]",
+      "nameDocument": "Third-party signature date",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page9[0].txtF_Today_Date_1[1]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 145,
+      "name": "txtF_info[0]",
+      "nameDocument": "Were any employees working in the position being requested in this application laid off by the employer in the last 12 months? If yes, Reason(s) for layoff(s) and positions affected:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page5[0].txtF_info[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 146,
+      "name": "TextField12[0]",
+      "nameDocument": "Column 2 of 4; Target; row 6 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].Table1[0].Row6[0].TextField12[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 147,
+      "name": "TextField3[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 2 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table3[0].Row2[0].TextField3[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 148,
+      "name": "txtF_Other_specify2[0]",
+      "nameDocument": "Is the third-party being paid by the employer to represent them for the purpose of obtaining this Labour Market Impact Assessment (LMIA)?; No - If no, which one applies from these options?; other (please describe):",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page3[0].txtF_Other_specify2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 149,
+      "name": "DateField6[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 3 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table3[0].Row3[0].DateField6[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 150,
+      "name": "TextField8[0]",
+      "nameDocument": "Column 2 of 4; Target; row 4 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].Table1[0].Row4[0].TextField8[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 151,
+      "name": "refugie_demandeur2[0]",
+      "nameDocument": "Worker number 2; If the TFW is currently in Canada, please indicate their immigration status: Refugee Claimant",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page12[0].refugie_demandeur2[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 152,
+      "name": "txtF_First_Name2[1]",
+      "nameDocument": "Worker number 3; First Names(s) (as shown on the individual's passport):",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page12[0].txtF_First_Name2[1]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 153,
+      "name": "rb_job_syndic[0]",
+      "nameDocument": "Is the position of a union?",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDRadioButton",
+      "path": "EMP5624_E[0].Page4[0].rb_job_syndic[0]",
+      "value": "1",
+      "referenceValue": "[1, 2]"
+    },
+    {
+      "id": 154,
+      "name": "txtF_Country2[0]",
+      "nameDocument": "Mailing Address if different from business address; Country",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].txtF_Country2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 155,
+      "name": "TextField2[0]",
+      "nameDocument": "Column 2 of 4; Target; row 1 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table3[0].Row1[0].TextField2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 156,
+      "name": "txtF_amout_employees[0]",
+      "nameDocument": "How many employees are employed nationally under the employer's Canada Revenue Agency business number?",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].txtF_amout_employees[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 157,
+      "name": "visitor[0]",
+      "nameDocument": "Worker number 1; If the TFW is currently in Canada, please indicate their immigration status: Visitor",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page12[0].visitor[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 158,
+      "name": "txtF_City[0]",
+      "nameDocument": "City:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].txtF_City[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 159,
+      "name": "TextField12[0]",
+      "nameDocument": "Column 2 of 4; Target; row 6 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table1[0].Row6[0].TextField12[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 160,
+      "name": "txtF_City1[0]",
+      "nameDocument": "Worker number  1 : Location of primary residence outside Canada; City",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page12[0].txtF_City1[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 161,
+      "name": "txtF_Today_Date_1[0]",
+      "nameDocument": "Employer's Signature Date ( year - month - day )",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page9[0].txtF_Today_Date_1[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 162,
+      "name": "txtF_Days[0]",
+      "nameDocument": "Vacation (if applicable); days (number of business days per year)",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page5[0].txtF_Days[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 163,
+      "name": "DateField1[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 1 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table2[0].Row1[0].DateField1[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 164,
+      "name": "TextField3[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 2 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table3[0].Row2[0].TextField3[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 165,
+      "name": "TextField10[0]",
+      "nameDocument": "Column 2 of 4; Target; row 5 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table3[0].Row5[0].TextField10[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 166,
+      "name": "TextField7[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 4 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table1[0].Row4[0].TextField7[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 167,
+      "name": "TextField5[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 3 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table3[0].Row3[0].TextField5[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 168,
+      "name": "DateField12[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 6 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table3[0].Row6[0].DateField12[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 169,
+      "name": "txtF_name_commercial[0]",
+      "nameDocument": "Business Operating Name (if different from Legal Name):",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page3[0].txtF_name_commercial[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 170,
+      "name": "txtFhours[0]",
+      "nameDocument": "How many hours will the TFW work each day?",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page5[0].txtFhours[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 171,
+      "name": "txtF_Province[0]",
+      "nameDocument": "Province/Territory/State:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].txtF_Province[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 172,
+      "name": "DateField10[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 5 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table1[0].Row5[0].DateField10[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 173,
+      "name": "txtF_other_mid_name2[0]",
+      "nameDocument": "Middle Name:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page3[0].txtF_other_mid_name2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 174,
+      "name": "txtF_City2[0]",
+      "nameDocument": "Worker number  2 : Location of primary residence outside Canada; City",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page12[0].txtF_City2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 175,
+      "name": "DateField2[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 1 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table2[0].Row1[0].DateField2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 176,
+      "name": "TextField4[0]",
+      "nameDocument": "Column 2 of 4; Target; row 2 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table3[0].Row2[0].TextField4[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 177,
+      "name": "txtF_City2b[0]",
+      "nameDocument": "Worker number 2 : Location of residence if TFW is currently in Canada; City",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page12[0].txtF_City2b[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 178,
+      "name": "TextField9[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 5 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table1[0].Row5[0].TextField9[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 179,
+      "name": "DateField12[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 6 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table3[0].Row6[0].DateField12[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 180,
+      "name": "TextField1[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 1 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table2[0].Row1[0].TextField1[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 181,
+      "name": "TextField1[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 1 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table3[0].Row1[0].TextField1[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 182,
+      "name": "DateField11[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 6 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table3[0].Row6[0].DateField11[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 183,
+      "name": "txtF_Given_Names[0]",
+      "nameDocument": "Name of cardholder (as it appears on the credit card):",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page11[0].txtF_Given_Names[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 184,
+      "name": "txtF_Law_numb[0]",
+      "nameDocument": "Is the third-party being paid by the employer to represent them for the purpose of obtaining this Labour Market Impact Assessment (LMIA)?; Yes - If yes, which one applies to the Third-Party apply?; the Chambre des notaires du Québec; Membership number",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page3[0].txtF_Law_numb[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 185,
+      "name": "txtF_name_Legal[0]",
+      "nameDocument": "Business Legal Name:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page3[0].txtF_name_Legal[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 186,
+      "name": "txtF_salary_after[0]",
+      "nameDocument": "What is the overtime wage in Canadian dollars per hour being offered to the TFW (if applicable)? Starting after how many hours per day",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page5[0].txtF_salary_after[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 187,
+      "name": "txtF_Emp_Legal[0]",
+      "nameDocument": "Business Legal Name",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].txtF_Emp_Legal[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 188,
+      "name": "rb_canadian_empl[0]",
+      "nameDocument": "Were any employees working in the position being requested in this application laid off by the employer in the last 12 months?",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDRadioButton",
+      "path": "EMP5624_E[0].Page5[0].rb_canadian_empl[0]",
+      "value": "1",
+      "referenceValue": "[1, 2]"
+    },
+    {
+      "id": 189,
+      "name": "txtF_Postal_Code2[0]",
+      "nameDocument": "Primary Work Location; postal code",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].txtF_Postal_Code2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 190,
+      "name": "TextField6[0]",
+      "nameDocument": "Column 2 of 4; Target; row 3 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].Table1[0].Row3[0].TextField6[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 191,
+      "name": "TextField7[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 4 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].Table1[0].Row4[0].TextField7[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 192,
+      "name": "TextField8[0]",
+      "nameDocument": "Column 2 of 4; Target; row 4 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table1[0].Row4[0].TextField8[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 193,
+      "name": "txtF_Country[0]",
+      "nameDocument": "Country:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page3[0].txtF_Country[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 194,
+      "name": "num_Company_Code[0]",
+      "nameDocument": "Activity Operation",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page3[0].num_Company_Code[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 195,
+      "name": "TextField1[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 1 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table3[0].Row1[0].TextField1[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 196,
+      "name": "txtF_Employer_Date_Business[0]",
+      "nameDocument": "Date business started ( Year - Month - Day )",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].txtF_Employer_Date_Business[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 197,
+      "name": "txtF_Email[0]",
+      "nameDocument": "E-mail Address:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page1[0].txtF_Email[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 198,
+      "name": "DateField8[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 4 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].Table1[0].Row4[0].DateField8[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 199,
+      "name": "txtF_salary_hours[0]",
+      "nameDocument": "What is the regular (non-overtime) wage in Canadian dollars per hour being offered to the TFW? dollars per hour (mandatory)",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page5[0].txtF_salary_hours[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 200,
+      "name": "txtF_Postal_Code2[1]",
+      "nameDocument": "Other work location(s); postal code",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].txtF_Postal_Code2[1]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 201,
+      "name": "txtF_Employer_Print_Name[2]",
+      "nameDocument": "Printed Name of Employer",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page9[0].txtF_Employer_Print_Name[2]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 202,
+      "name": "cb_rules_member[0]",
+      "nameDocument": "Is the third-party being paid by the employer to represent them for the purpose of obtaining this Labour Market Impact Assessment (LMIA)?; No - If no, which one applies from these options?; a member in good standing of the Immigration Consultants of Canada Regulatory Council (ICCRC), a provincial or territorial law society or the Chambre des notaires du Québec doing pro-bonowork",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page3[0].cb_rules_member[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 203,
+      "name": "txtF_code[0]",
+      "nameDocument": "Suggested National Occupational Classification (NOC):",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page3[0].txtF_code[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 204,
+      "name": "TextField5[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 3 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].Table1[0].Row3[0].TextField5[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 205,
+      "name": "txtF_alternate_phone2[0]",
+      "nameDocument": "Alternate Telephone Number and Extension",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page1[0].txtF_alternate_phone2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 206,
+      "name": "TextField6[0]",
+      "nameDocument": "Column 2 of 4; Target; row 3 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table3[0].Row3[0].TextField6[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 207,
+      "name": "txtF_City4[0]",
+      "nameDocument": "Worker number  4 : Location of primary residence outside Canada; City",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page13[0].txtF_City4[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 208,
+      "name": "TextField10[0]",
+      "nameDocument": "Column 2 of 4; Target; row 5 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table2[0].Row5[0].TextField10[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 209,
+      "name": "txtF_Country2[0]",
+      "nameDocument": "Worker number  2 : Location of primary residence outside Canada; Country",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page12[0].txtF_Country2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 210,
+      "name": "Temporary_foreign_worker2[0]",
+      "nameDocument": "Worker number 2; If the TFW is currently in Canada, please indicate their immigration status: Temporary Foreign Worker",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page12[0].Temporary_foreign_worker2[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 211,
+      "name": "cb_Lawyer[0]",
+      "nameDocument": "the Chambre des notaires du Québec",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page3[0].cb_Lawyer[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 212,
+      "name": "num_Company_Code[1]",
+      "nameDocument": "Activity Operation",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page3[0].num_Company_Code[1]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 213,
+      "name": "txtF_AdditionalInformation[0]",
+      "nameDocument": "Minimum education requirements of the job (check all that apply); Additional Information",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page4[0].txtF_AdditionalInformation[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 214,
+      "name": "chkB_DentalInsurance[0]",
+      "nameDocument": "Benefits; Dental Insurance",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page5[0].chkB_DentalInsurance[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 215,
+      "name": "visitor2[0]",
+      "nameDocument": "Worker number 2; If the TFW is currently in Canada, please indicate their immigration status: Visitor",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page12[0].visitor2[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 216,
+      "name": "txtF_canadian_how_many[0]",
+      "nameDocument": "Were any employees working in the position being requested in this application laid off by the employer in the last 12 months? If yes, how many Canadians/permanent residents?",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page5[0].txtF_canadian_how_many[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 217,
+      "name": "DateField8[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 4 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table1[0].Row4[0].DateField8[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 218,
+      "name": "chkB_ExtendedMed[0]",
+      "nameDocument": "Benefits; Extended medical insurance (e.g. prescription drugs, paramedical services, medical services and equipment)",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page5[0].chkB_ExtendedMed[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 219,
+      "name": "DateField10[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 5 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table1[0].Row5[0].DateField10[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 220,
+      "name": "TextField11[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 6 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].Table1[0].Row6[0].TextField11[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 221,
+      "name": "txtF_Employer_Print_Name[1]",
+      "nameDocument": "Printed name of the Third-party Representative",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page9[0].txtF_Employer_Print_Name[1]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 222,
+      "name": "rb_Payment[0]",
+      "nameDocument": "Step 3 - Select method of payment",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDRadioButton",
+      "path": "EMP5624_E[0].Page11[0].rb_Payment[0]",
+      "value": "1",
+      "referenceValue": "[1, 2]"
+    },
+    {
+      "id": 223,
+      "name": "txtF_other_position_title[0]",
+      "nameDocument": "Job Title:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page3[0].txtF_other_position_title[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 224,
+      "name": "txtF_Date_of_Birth3[0]",
+      "nameDocument": "Worker number 3 :  Date of birth ( Year - Month - Day )",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page12[0].txtF_Date_of_Birth3[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 225,
+      "name": "txtF_If_Yes2[0]",
+      "nameDocument": "Does your business receive support through Employment and Social Development Canada's Work-Sharing Program? If yes, provide details:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].txtF_If_Yes2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 226,
+      "name": "TextField9[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 5 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table1[0].Row5[0].TextField9[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 227,
+      "name": "DateField6[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 3 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].Table1[0].Row3[0].DateField6[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 228,
+      "name": "DateField4[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 2 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table3[0].Row2[0].DateField4[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 229,
+      "name": "Temporary_foreign_worker1[0]",
+      "nameDocument": "Worker number 1; If the TFW is currently in Canada, please indicate their immigration status: Temporary Foreign Worker",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page12[0].Temporary_foreign_worker1[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 230,
+      "name": "DateField11[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 6 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table3[0].Row6[0].DateField11[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 231,
+      "name": "txtF_AdditionalInformation[1]",
+      "nameDocument": "Have you tried to recruit Canadians/permanent residents prior to submitting your application for this job?; Yes - Please describe your efforts to recruit Canadians/permanent residents:  ",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page4[0].txtF_AdditionalInformation[1]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 232,
+      "name": "TextField2[0]",
+      "nameDocument": "Column 2 of 4; Target; row 1 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table2[0].Row1[0].TextField2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 233,
+      "name": "txtF_City3b[0]",
+      "nameDocument": "Worker number 3 : Location of residence if TFW is currently in Canada; City",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page12[0].txtF_City3b[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 234,
+      "name": "txtF_Family_Name5[0]",
+      "nameDocument": "Worker number 5; Last Name (as shown on the individual's passport:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page13[0].txtF_Family_Name5[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 235,
+      "name": "TextField10[0]",
+      "nameDocument": "Column 2 of 4; Target; row 5 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].Table1[0].Row5[0].TextField10[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 236,
+      "name": "TextField4[0]",
+      "nameDocument": "Column 2 of 4; Target; row 2 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table3[0].Row2[0].TextField4[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 237,
+      "name": "txtF_Employer_Print_Name[0]",
+      "nameDocument": "Printed Name of the Employer",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page9[0].txtF_Employer_Print_Name[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 238,
+      "name": "txtF_Employer_Web_Address[0]",
+      "nameDocument": "Website Address:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].txtF_Employer_Web_Address[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 239,
+      "name": "DateField7[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 4 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table1[0].Row4[0].DateField7[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 240,
+      "name": "TextField11[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 6 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table2[0].Row6[0].TextField11[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 241,
+      "name": "TextField7[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 4 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table1[0].Row4[0].TextField7[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 242,
+      "name": "cb_other_member[0]",
+      "nameDocument": "Is the third-party being paid by the employer to represent them for the purpose of obtaining this Labour Market Impact Assessment (LMIA)?; No - If no, which one applies from these options?;",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page3[0].cb_other_member[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 243,
+      "name": "txtF_Date_of_Birth2[0]",
+      "nameDocument": "Worker number 2 :  Date of birth ( Year - Month - Day )",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page12[0].txtF_Date_of_Birth2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 244,
+      "name": "txtF_Country1[0]",
+      "nameDocument": "Worker number  1 : Location of primary residence outside Canada; Country",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page12[0].txtF_Country1[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 245,
+      "name": "txtF_Postal_Code2[0]",
+      "nameDocument": "Mailing Address (if different from business address); Postal/Zip Code",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page3[0].txtF_Postal_Code2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 246,
+      "name": "DateField11[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 6 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table1[0].Row6[0].DateField11[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 247,
+      "name": "DateField2[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 1 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table3[0].Row1[0].DateField2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 248,
+      "name": "txtF_position_title[1]",
+      "nameDocument": "How many TFWs is the employer requesting for this job offer and position (with same duration, wage, job description, work location, etc.)?",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page3[0].txtF_position_title[1]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 249,
+      "name": "txtF_phone_number[0]",
+      "nameDocument": "Telephone Number and Extension",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page1[0].txtF_phone_number[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 250,
+      "name": "DateField9[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 5 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table1[0].Row5[0].DateField9[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 251,
+      "name": "refugie_demandeur3[0]",
+      "nameDocument": "Worker number 3; If the TFW is currently in Canada, please indicate their immigration status: Refugee Claimant",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page12[0].refugie_demandeur3[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 252,
+      "name": "DateField5[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 3 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table1[0].Row3[0].DateField5[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 253,
+      "name": "txtF_first_name2[0]",
+      "nameDocument": "First Name:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].txtF_first_name2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 254,
+      "name": "chkB_english1[1]",
+      "nameDocument": "Expected employment duration: week(s)",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page4[0].chkB_english1[1]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 255,
+      "name": "txtF_position_title[0]",
+      "nameDocument": "Job Title:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page3[0].txtF_position_title[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 256,
+      "name": "txtF_Postal_Code2[0]",
+      "nameDocument": "Mailing Address if different from business address; Postal/Zip Code",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].txtF_Postal_Code2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 257,
+      "name": "DateField11[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 6 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].Table1[0].Row6[0].DateField11[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 258,
+      "name": "txtF_Employer_Signature[2]",
+      "nameDocument": "Signature of employer is required when the form is completed",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page9[0].txtF_Employer_Signature[2]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 259,
+      "name": "DateField8[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 4 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table2[0].Row4[0].DateField8[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 260,
+      "name": "txtF_EMployer_Name[0]",
+      "nameDocument": "Employer Business Name:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page11[0].txtF_EMployer_Name[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 261,
+      "name": "cb_family[0]",
+      "nameDocument": "Is the third-party being paid by the employer to represent them for the purpose of obtaining this Labour Market Impact Assessment (LMIA)?; No - If no, which one applies from these options?; a family member or a friend",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page3[0].cb_family[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 262,
+      "name": "DateField2[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 1 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table1[0].Row1[0].DateField2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 263,
+      "name": "txtF_Country5b[0]",
+      "nameDocument": "Worker number 5; Location of residence if TFW is currently in Canada; Country",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page13[0].txtF_Country5b[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 264,
+      "name": "txtF_Year[0]",
+      "nameDocument": "Signature Date (Day)",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page11[0].txtF_Year[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 265,
+      "name": "txtF_Country2[0]",
+      "nameDocument": "Mailing Address (if different from business address); Country",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page3[0].txtF_Country2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 266,
+      "name": "txtF_other_position_title[0]",
+      "nameDocument": "Job Title:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].txtF_other_position_title[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 267,
+      "name": "DateField5[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 3 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].Table1[0].Row3[0].DateField5[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 268,
+      "name": "DateField12[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 6 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table1[0].Row6[0].DateField12[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 269,
+      "name": "TextField3[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 2 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].Table1[0].Row2[0].TextField3[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 270,
+      "name": "rb_Gender4[0]",
+      "nameDocument": "Worker number 4; Gender",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDRadioButton",
+      "path": "EMP5624_E[0].Page13[0].rb_Gender4[0]",
+      "value": "1",
+      "referenceValue": "[1, 2]"
+    },
+    {
+      "id": 271,
+      "name": "chkB_english1[0]",
+      "nameDocument": "Expected employment duration: day(s)",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page4[0].chkB_english1[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 272,
+      "name": "txtF_other_Email2[0]",
+      "nameDocument": "E-mail Address:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page3[0].txtF_other_Email2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 273,
+      "name": "txtF_advantage[0]",
+      "nameDocument": "Which mandatory benefit will be achieved by hiring a TFW for the position identified in this application?",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].txtF_advantage[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 274,
+      "name": "txtF_other_phone_number2[0]",
+      "nameDocument": "Telephone Number and Extension",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].txtF_other_phone_number2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 275,
+      "name": "txtF_Employer_Signature[3]",
+      "nameDocument": "Signature of witness is required when the form is completed",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page9[0].txtF_Employer_Signature[3]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 276,
+      "name": "txtF_No_AdditionalInformation[0]",
+      "nameDocument": "Have you tried to recruit Canadians/permanent residents prior to submitting your application for this job?; No - Please explain why you have not attempted to recruit Canadians/permanent residents:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page4[0].txtF_No_AdditionalInformation[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 277,
+      "name": "DateField8[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 4 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table2[0].Row4[0].DateField8[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 278,
+      "name": "TextField5[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 3 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table2[0].Row3[0].TextField5[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 279,
+      "name": "txtF_high_wage[0]",
+      "nameDocument": "What is the wage range for all employees currently working in this occupation at this work location? High-wage (dollars per hour)",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page5[0].txtF_high_wage[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 280,
+      "name": "txtF_City1b[0]",
+      "nameDocument": "Worker number 1 : Location of residence if TFW is currently in Canada; City",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page12[0].txtF_City1b[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 281,
+      "name": "rb_other_language_oral2[0]",
+      "nameDocument": "Preferred Official Language of Oral Communication:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDRadioButton",
+      "path": "EMP5624_E[0].Page2[0].rb_other_language_oral2[0]",
+      "value": "1",
+      "referenceValue": "[1, 2]"
+    },
+    {
+      "id": 282,
+      "name": "TextField8[0]",
+      "nameDocument": "Column 2 of 4; Target; row 4 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table3[0].Row4[0].TextField8[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 283,
+      "name": "txtF_phone_number2[0]",
+      "nameDocument": "Telephone number and Extension",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page1[0].txtF_phone_number2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 284,
+      "name": "Yes_business[0]",
+      "nameDocument": "Does the occupation of the position(s) you are seeking to fill appear on the Global Talent Occupations List that has been published on the TFW Program website?; Yes - skip to Section 2",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page1[0].Yes_business[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 285,
+      "name": "TextField3[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 2 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table1[0].Row2[0].TextField3[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 286,
+      "name": "txtF_City2[0]",
+      "nameDocument": "Mailing Address if different from business address; City",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].txtF_City2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 287,
+      "name": "txtF_Number_Positions[0]",
+      "nameDocument": "Number of positions requested",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page11[0].txtF_Number_Positions[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 288,
+      "name": "DateField12[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 6 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table1[0].Row6[0].DateField12[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 289,
+      "name": "rb_Card_Type[0]",
+      "nameDocument": "Credit card type",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDRadioButton",
+      "path": "EMP5624_E[0].Page11[0].rb_Card_Type[0]",
+      "value": "1",
+      "referenceValue": "[1, 2, 4]"
+    },
+    {
+      "id": 290,
+      "name": "txtF_Email2[0]",
+      "nameDocument": "E-mail Address:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page1[0].txtF_Email2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 291,
+      "name": "chkB_english2[0]",
+      "nameDocument": "Indicate the language requirement stated in the offer of employment; The offer of employment requires the ability to communicate in writing in: English",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page4[0].chkB_english2[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 292,
+      "name": "chkB_english1[3]",
+      "nameDocument": "Expected employment duration: year(s)",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page4[0].chkB_english1[3]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 293,
+      "name": "TextField6[0]",
+      "nameDocument": "Column 2 of 4; Target; row 3 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table2[0].Row3[0].TextField6[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 294,
+      "name": "txtF_des_part[0]",
+      "nameDocument": "Designated Referral Partner Organization Name:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page1[0].txtF_des_part[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 295,
+      "name": "TextField5[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 3 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table2[0].Row3[0].TextField5[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 296,
+      "name": "rb_language_oral2[0]",
+      "nameDocument": "Preferred Official Language of Oral Communication:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDRadioButton",
+      "path": "EMP5624_E[0].Page1[0].rb_language_oral2[0]",
+      "value": "1",
+      "referenceValue": "[1, 2]"
+    },
+    {
+      "id": 297,
+      "name": "DateField2[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 1 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].Table1[0].Row1[0].DateField2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 298,
+      "name": "txtF_mid_name[0]",
+      "nameDocument": "Middle Name:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page1[0].txtF_mid_name[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 299,
+      "name": "DateField3[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 2 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table3[0].Row2[0].DateField3[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 300,
+      "name": "txtF_Country5[0]",
+      "nameDocument": "Worker number  5; Location of primary residence outside Canada; Country",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page13[0].txtF_Country5[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 301,
+      "name": "txtF_Family_Name4[0]",
+      "nameDocument": "Worker number 4; Last Name (as shown on the individual's passport:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page13[0].txtF_Family_Name4[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 302,
+      "name": "chkB_english1[2]",
+      "nameDocument": "Expected employment duration: month(s)",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page4[0].chkB_english1[2]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 303,
+      "name": "TextField9[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 5 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table2[0].Row5[0].TextField9[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 304,
+      "name": "DateField7[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 4 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table2[0].Row4[0].DateField7[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 305,
+      "name": "txtF_Employer_Print_Name[3]",
+      "nameDocument": "Printed Name of Witness",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page9[0].txtF_Employer_Print_Name[3]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 306,
+      "name": "DateField12[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 6 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table2[0].Row6[0].DateField12[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 307,
+      "name": "txtF_City5[0]",
+      "nameDocument": "Worker number  5; Location of primary residence outside Canada; City",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page13[0].txtF_City5[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 308,
+      "name": "txtF_Law_member_numb[0]",
+      "nameDocument": "Is the third-party being paid by the employer to represent them for the purpose of obtaining this Labour Market Impact Assessment (LMIA)?; Yes - If yes, which one applies to the Third-Party apply?; A member of the following province/territory; membership number",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page3[0].txtF_Law_member_numb[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 309,
+      "name": "TextField4[0]",
+      "nameDocument": "Column 2 of 4; Target; row 2 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].Table1[0].Row2[0].TextField4[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 310,
+      "name": "DateField6[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 3 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table1[0].Row3[0].DateField6[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 311,
+      "name": "No_E[0]",
+      "nameDocument": "Have you tried to recruit Canadians/permanent residents prior to submitting your application for this job?; No - Please explain why you have not attempted to recruit Canadians/permanent residents:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page4[0].No_E[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 312,
+      "name": "TextField7[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 4 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table3[0].Row4[0].TextField7[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 313,
+      "name": "TextField9[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 5 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table2[0].Row5[0].TextField9[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 314,
+      "name": "DateField7[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 4 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table2[0].Row4[0].DateField7[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 315,
+      "name": "student5[0]",
+      "nameDocument": "Worker number 5; If the TFW is currently in Canada, please indicate their immigration status: Student",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page13[0].student5[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 316,
+      "name": "DateField10[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 5 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].Table1[0].Row5[0].DateField10[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 317,
+      "name": "DateField9[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 5 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table1[0].Row5[0].DateField9[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 318,
+      "name": "txtF_First_Name4[0]",
+      "nameDocument": "Worker number 4; First Names(s) (as shown on the individual's passport):",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page13[0].txtF_First_Name4[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 319,
+      "name": "txtF_First_Name1[0]",
+      "nameDocument": "Worker number 1; First Names(s) (as shown on the individual's passport):",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page12[0].txtF_First_Name1[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 320,
+      "name": "txtF_other_phone_number2[0]",
+      "nameDocument": "Telephone Number and Extension",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page3[0].txtF_other_phone_number2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 321,
+      "name": "txtF_Province[0]",
+      "nameDocument": "Province/Territory/State:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page3[0].txtF_Province[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 322,
+      "name": "txtF_salary_overtime[0]",
+      "nameDocument": "What is the overtime wage in Canadian dollars per hour being offered to the TFW (if applicable)?; Overtime rate of $ per hour:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page5[0].txtF_salary_overtime[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 323,
+      "name": "DateField4[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 2 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table3[0].Row2[0].DateField4[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 324,
+      "name": "DateField6[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 3 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table1[0].Row3[0].DateField6[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 325,
+      "name": "chkB_DisabilityInsurance[0]",
+      "nameDocument": "Benefits; Disability Insurance",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page5[0].chkB_DisabilityInsurance[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 326,
+      "name": "DateField12[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 6 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].Table1[0].Row6[0].DateField12[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 327,
+      "name": "num_Company_Code[0]",
+      "nameDocument": "Activity Operation",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].num_Company_Code[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 328,
+      "name": "chkB_english1[4]",
+      "nameDocument": "Indicate the language requirement stated in the offer of employment; The offer of employment requires the ability to communicate orally in: English",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page4[0].chkB_english1[4]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 329,
+      "name": "TextField2[0]",
+      "nameDocument": "Column 2 of 4; Target; row 1 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table2[0].Row1[0].TextField2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 330,
+      "name": "DateField9[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 5 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].Table1[0].Row5[0].DateField9[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 331,
+      "name": "DateField11[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 6 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table1[0].Row6[0].DateField11[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 332,
+      "name": "rb_hours[0]",
+      "nameDocument": "Is the job offer for full-time employment (at least 30 hours of work per week) throughout the duration of employment covered by the LMIA?",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDRadioButton",
+      "path": "EMP5624_E[0].Page5[0].rb_hours[0]",
+      "value": "1",
+      "referenceValue": "[1, 2]"
+    },
+    {
+      "id": 333,
+      "name": "rb_Gender5[0]",
+      "nameDocument": "Worker number 5; Gender",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDRadioButton",
+      "path": "EMP5624_E[0].Page13[0].rb_Gender5[0]",
+      "value": "1",
+      "referenceValue": "[1, 2]"
+    },
+    {
+      "id": 334,
+      "name": "txtF_Today_Date_1[3]",
+      "nameDocument": "Date of Witness Signature ( year - month - day )",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page9[0].txtF_Today_Date_1[3]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 335,
+      "name": "refugie_demandeur[0]",
+      "nameDocument": "Worker number 1; If the TFW is currently in Canada, please indicate their immigration status: Refugee Claimant",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page12[0].refugie_demandeur[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 336,
+      "name": "txtF_Country4[0]",
+      "nameDocument": "Worker number  4; Location of primary residence outside Canada; Country",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page13[0].txtF_Country4[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 337,
+      "name": "txtF_MainDuties[1]",
+      "nameDocument": "Minimum experience/skills requirements of the job: (include years of experience and/or occupational designations such as CA, CMA, CGA, R.N., P. Eng)",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page4[0].txtF_MainDuties[1]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 338,
+      "name": "TextField1[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 1 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table2[0].Row1[0].TextField1[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 339,
+      "name": "txtF_other_last_name2[0]",
+      "nameDocument": "Last Name:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page3[0].txtF_other_last_name2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 340,
+      "name": "txtF_TET_how_many[0]",
+      "nameDocument": "Were any employees working in the position being requested in this application laid off by the employer in the last 12 months? If yes, how many TFWs?",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page5[0].txtF_TET_how_many[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 341,
+      "name": "txtF_Postal_Code[0]",
+      "nameDocument": "Postal/Zip Code:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].txtF_Postal_Code[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 342,
+      "name": "TextField8[0]",
+      "nameDocument": "Column 2 of 4; Target; row 4 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table3[0].Row4[0].TextField8[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 343,
+      "name": "txtF_other_alternate_phone2[0]",
+      "nameDocument": "Alternate Telephone Number and Extension",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].txtF_other_alternate_phone2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 344,
+      "name": "DateField5[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 3 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table1[0].Row3[0].DateField5[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 345,
+      "name": "txtF_Today_Date_1[2]",
+      "nameDocument": "Employer's Signature Date ( year - month - day )",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page9[0].txtF_Today_Date_1[2]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 346,
+      "name": "txtF_Country4b[0]",
+      "nameDocument": "Worker number 4; Location of residence if TFW is currently in Canada; Country",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page13[0].txtF_Country4b[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 347,
+      "name": "txtF_CCRC_number[0]",
+      "nameDocument": "Is the third-party being paid by the employer to represent them for the purpose of obtaining this Labour Market Impact Assessment (LMIA)?; Yes - If yes, which one applies to the Third-Party apply?; A member of the Immigration Consultants of Canada Regulatory Council (ICCRC); Membership number",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page3[0].txtF_CCRC_number[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 348,
+      "name": "txtF_First_Name5[0]",
+      "nameDocument": "Worker number 5; First Names(s) (as shown on the individual's passport):",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page13[0].txtF_First_Name5[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 349,
+      "name": "txtF_Year[1]",
+      "nameDocument": "Expiry Date of credit card (Year)",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page11[0].txtF_Year[1]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 350,
+      "name": "txtF_First_Name2[0]",
+      "nameDocument": "Worker number 2; First Names(s) (as shown on the individual's passport):",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page12[0].txtF_First_Name2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 351,
+      "name": "chkB_NoLanguage[0]",
+      "nameDocument": "Indicate the language requirement stated in the offer of employment; The offer of employment does not require the ability to communicate in any specific language.",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page4[0].chkB_NoLanguage[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 352,
+      "name": "rb_other_anguage_written2[0]",
+      "nameDocument": "Preferred Official Language of Written Communication:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDRadioButton",
+      "path": "EMP5624_E[0].Page2[0].rb_other_anguage_written2[0]",
+      "value": "1",
+      "referenceValue": "[1, 2]"
+    },
+    {
+      "id": 353,
+      "name": "DateField3[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 2 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table3[0].Row2[0].DateField3[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 354,
+      "name": "DateField4[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 2 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table2[0].Row2[0].DateField4[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 355,
+      "name": "DateField1[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 1 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].Table1[0].Row1[0].DateField1[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 356,
+      "name": "txtF_other_Email2[0]",
+      "nameDocument": "E-mail Address:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].txtF_other_Email2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 357,
+      "name": "TextField9[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 5 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].Table1[0].Row5[0].TextField9[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 358,
+      "name": "txtF_Month[0]",
+      "nameDocument": "Signature Date (Month)",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page11[0].txtF_Month[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 359,
+      "name": "DateField3[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 2 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table2[0].Row2[0].DateField3[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 360,
+      "name": "txtF_Charge[0]",
+      "nameDocument": "I authorize ESDC/Service Canada in the name of the Receiver General for Canada to charge $ CAD to my credit card. This is permission for a single transaction, and does not provide authorization for any additional charges.",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page11[0].txtF_Charge[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 361,
+      "name": "TextField6[0]",
+      "nameDocument": "Column 2 of 4; Target; row 3 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table1[0].Row3[0].TextField6[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 362,
+      "name": "TextField5[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 3 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table3[0].Row3[0].TextField5[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 363,
+      "name": "DateField9[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 5 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table3[0].Row5[0].DateField9[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 364,
+      "name": "DateField3[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 2 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table2[0].Row2[0].DateField3[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 365,
+      "name": "txtF_MainDuties[0]",
+      "nameDocument": "Main duties of the job:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page4[0].txtF_MainDuties[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 366,
+      "name": "refugie_demandeur4[0]",
+      "nameDocument": "Worker number 4; If the TFW is currently in Canada, please indicate their immigration status: Refugee Claimant",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page13[0].refugie_demandeur4[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 367,
+      "name": "txtF_Citizenship5[0]",
+      "nameDocument": "Worker number 5; Citizenship(s)",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page13[0].txtF_Citizenship5[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 368,
+      "name": "DateField6[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 3 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table3[0].Row3[0].DateField6[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 369,
+      "name": "DateField11[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 6 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table2[0].Row6[0].DateField11[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 370,
+      "name": "rb_language_written[0]",
+      "nameDocument": "Preferred Official Language of Written Communication:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDRadioButton",
+      "path": "EMP5624_E[0].Page1[0].rb_language_written[0]",
+      "value": "1",
+      "referenceValue": "[1, 2]"
+    },
+    {
+      "id": 371,
+      "name": "chkB_English_French2[0]",
+      "nameDocument": "Indicate the language requirement stated in the offer of employment; The offer of employment requires the ability to communicate in writing in: French and English",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page4[0].chkB_English_French2[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 372,
+      "name": "txtF_Mail_Adress2-2[0]",
+      "nameDocument": "Mailing Address if different from business address; Line 2 :",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].txtF_Mail_Adress2-2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 373,
+      "name": "DateField8[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 4 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table3[0].Row4[0].DateField8[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 374,
+      "name": "TextField4[0]",
+      "nameDocument": "Column 2 of 4; Target; row 2 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table1[0].Row2[0].TextField4[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 375,
+      "name": "txtF_Citizenship1[1]",
+      "nameDocument": "Worker number 2 : Citizenship(s)",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page12[0].txtF_Citizenship1[1]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 376,
+      "name": "cb_Law_member[0]",
+      "nameDocument": "A member of the law society of the following",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page3[0].cb_Law_member[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 377,
+      "name": "TextField12[0]",
+      "nameDocument": "Column 2 of 4; Target; row 6 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table1[0].Row6[0].TextField12[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 378,
+      "name": "txtF_Day[0]",
+      "nameDocument": "Signature Date (Year)",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page11[0].txtF_Day[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 379,
+      "name": "DateField5[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 3 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table2[0].Row3[0].DateField5[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 380,
+      "name": "refugie_demandeur5[0]",
+      "nameDocument": "Worker number 5; If the TFW is currently in Canada, please indicate their immigration status: Refugee Claimant",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page13[0].refugie_demandeur5[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 381,
+      "name": "num_Company_Code[1]",
+      "nameDocument": "Activity Operation",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].num_Company_Code[1]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 382,
+      "name": "student4[0]",
+      "nameDocument": "Worker number 4; If the TFW is currently in Canada, please indicate their immigration status: Student",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page13[0].student4[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 383,
+      "name": "txtF_Country[0]",
+      "nameDocument": "Country:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].txtF_Country[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 384,
+      "name": "cb_individual[0]",
+      "nameDocument": "Organization type and structure (select all that apply); Business: sole proprietorship",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page2[0].cb_individual[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 385,
+      "name": "TextField10[0]",
+      "nameDocument": "Column 2 of 4; Target; row 5 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table3[0].Row5[0].TextField10[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 386,
+      "name": "DateField1[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 1 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table2[0].Row1[0].DateField1[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 387,
+      "name": "txtF_Mail_Adress2-1[0]",
+      "nameDocument": "Mailing Address if different from business address; Line 1 :",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].txtF_Mail_Adress2-1[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 388,
+      "name": "DateField10[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 5 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table2[0].Row5[0].DateField10[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 389,
+      "name": "txtF_Citizenship1[0]",
+      "nameDocument": "Worker number 1 : Citizenship(s)",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page12[0].txtF_Citizenship1[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 390,
+      "name": "DateField4[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 2 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table2[0].Row2[0].DateField4[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 391,
+      "name": "txtF_yes_add_info[0]",
+      "nameDocument": "Is there a labour dispute in progress at the job location? If yes, provide details regarding the labour dispute:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].txtF_yes_add_info[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 392,
+      "name": "txtF_OtherBenefits[0]",
+      "nameDocument": "Other benefits (specify):",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page5[0].txtF_OtherBenefits[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 393,
+      "name": "DateField10[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 5 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table2[0].Row5[0].DateField10[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 394,
+      "name": "DateField7[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 4 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table3[0].Row4[0].DateField7[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 395,
+      "name": "student3[0]",
+      "nameDocument": "Worker number 3; If the TFW is currently in Canada, please indicate their immigration status: Student",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page12[0].student3[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 396,
+      "name": "txtF_phone_number2[0]",
+      "nameDocument": "Telephone Number and Extension",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].txtF_phone_number2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 397,
+      "name": "txtF_IfNo[0]",
+      "nameDocument": "Is the job offer for full-time employment (at least 30 hours of work per week) throughout the duration of employment covered by the LMIA?; If no, explain:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page5[0].txtF_IfNo[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 398,
+      "name": "cb_not_profit[0]",
+      "nameDocument": "Organization type and structure (select all that apply); Other: non-profit",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page2[0].cb_not_profit[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 399,
+      "name": "txtF_other_fax_number2[0]",
+      "nameDocument": "Fax Number:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page3[0].txtF_other_fax_number2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 400,
+      "name": "txtF_Province2[1]",
+      "nameDocument": "Other work location(s); province/territory",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].txtF_Province2[1]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 401,
+      "name": "txtF_ProvideDetails[0]",
+      "nameDocument": "Indicate the language requirement stated in the offer of employment; The offer of employment requires the ability to communicate in a language other than English and French.; If this option is selected, identify the specific language needed and clearly describe why this is a bona fide employment requirement for performing the duties associated with the employment (if insufficient space, attach a separate signed and dated sheet):",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page4[0].txtF_ProvideDetails[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 402,
+      "name": "DateField12[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 6 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table2[0].Row6[0].DateField12[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 403,
+      "name": "chkB_English_French1[0]",
+      "nameDocument": "Indicate the language requirement stated in the offer of employment; The offer of employment requires the ability to communicate orally in: French and English",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page4[0].chkB_English_French1[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 404,
+      "name": "DateField1[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 1 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table1[0].Row1[0].DateField1[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 405,
+      "name": "DateField5[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 3 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table3[0].Row3[0].DateField5[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 406,
+      "name": "txtF_advantage1[0]",
+      "nameDocument": "Which complementary benefit will be achieved by hiring a TFW for the position identified in this application?",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].txtF_advantage1[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 407,
+      "name": "txtF_other_first_name2[0]",
+      "nameDocument": "First Name:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].txtF_other_first_name2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 408,
+      "name": "txtF_first_name[0]",
+      "nameDocument": "First Name:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page1[0].txtF_first_name[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 409,
+      "name": "rb_other_language_oral2[0]",
+      "nameDocument": "Preferred Official Language of Oral Communication:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDRadioButton",
+      "path": "EMP5624_E[0].Page3[0].rb_other_language_oral2[0]",
+      "value": "1",
+      "referenceValue": "[1, 2]"
+    },
+    {
+      "id": 410,
+      "name": "txtF_other_first_name2[0]",
+      "nameDocument": "First Name:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page3[0].txtF_other_first_name2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 411,
+      "name": "TextField8[0]",
+      "nameDocument": "Column 2 of 4; Target; row 4 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table2[0].Row4[0].TextField8[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 412,
+      "name": "txtF_advantage1[0]",
+      "nameDocument": "Which complementary benefit will be achieved by hiring a TFW for the position identified in this application?",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].txtF_advantage1[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 413,
+      "name": "TextField4[0]",
+      "nameDocument": "Column 2 of 4; Target; row 2 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table1[0].Row2[0].TextField4[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 414,
+      "name": "txtF_Province2[0]",
+      "nameDocument": "Primary Work Location; province/territory",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page6[0].txtF_Province2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 415,
+      "name": "txtF_alternate_phone2[0]",
+      "nameDocument": "Alternate Telephone Number and Extension",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].txtF_alternate_phone2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 416,
+      "name": "TextField2[0]",
+      "nameDocument": "Column 2 of 4; Target; row 1 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table1[0].Row1[0].TextField2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 417,
+      "name": "DateField6[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 3 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table2[0].Row3[0].DateField6[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 418,
+      "name": "txtF_advantage1[1]",
+      "nameDocument": "Which complementary benefit will be achieved by hiring a TFW for the position identified in this application?",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].txtF_advantage1[1]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 419,
+      "name": "DateField1[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 1 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table1[0].Row1[0].DateField1[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 420,
+      "name": "rb_language_oral[0]",
+      "nameDocument": "Preferred Official Language of Oral Communication:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDRadioButton",
+      "path": "EMP5624_E[0].Page1[0].rb_language_oral[0]",
+      "value": "1",
+      "referenceValue": "[1, 2]"
+    },
+    {
+      "id": 421,
+      "name": "TextField3[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 2 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table2[0].Row2[0].TextField3[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 422,
+      "name": "txtF_position_title[0]",
+      "nameDocument": "Job Title:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].txtF_position_title[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 423,
+      "name": "txtF_advantage1[1]",
+      "nameDocument": "Which complementary benefit will be achieved by hiring a TFW for the position identified in this application?",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].txtF_advantage1[1]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 424,
+      "name": "DateField9[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 5 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table3[0].Row5[0].DateField9[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 425,
+      "name": "cb_partnership[0]",
+      "nameDocument": "Organization type and structure (select all that apply); Business: partnership",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page2[0].cb_partnership[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 426,
+      "name": "TextField11[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 6 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table3[0].Row6[0].TextField11[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 427,
+      "name": "DateField4[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 2 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table1[0].Row2[0].DateField4[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 428,
+      "name": "txtF_advantage1[2]",
+      "nameDocument": "Which complementary benefit will be achieved by hiring a TFW for the position identified in this application?",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].txtF_advantage1[2]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 429,
+      "name": "txtF_Employer_Signature[0]",
+      "nameDocument": "Signature of employer is required when the form is completed",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page9[0].txtF_Employer_Signature[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 430,
+      "name": "txtF_City[0]",
+      "nameDocument": "City:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page3[0].txtF_City[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 431,
+      "name": "DateField11[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 6 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table2[0].Row6[0].DateField11[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 432,
+      "name": "txtF_first_name2[0]",
+      "nameDocument": "First Name:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page1[0].txtF_first_name2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 433,
+      "name": "DateField7[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 4 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table3[0].Row4[0].DateField7[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 434,
+      "name": "student2[0]",
+      "nameDocument": "Worker number 2; If the TFW is currently in Canada, please indicate their immigration status: Student",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page12[0].student2[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 435,
+      "name": "txtF_mid_name2[0]",
+      "nameDocument": "Middle Name:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].txtF_mid_name2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 436,
+      "name": "TextField9[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 5 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table3[0].Row5[0].TextField9[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 437,
+      "name": "txtF_Email2[0]",
+      "nameDocument": "E-mail Address:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].txtF_Email2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 438,
+      "name": "txtF_Employer_Title[0]",
+      "nameDocument": "Title of Employer",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page9[0].txtF_Employer_Title[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 439,
+      "name": "rb_receive_prog[0]",
+      "nameDocument": "Does your business receive support through Employment and Social Development Canada's Work-Sharing Program?",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDRadioButton",
+      "path": "EMP5624_E[0].Page2[0].rb_receive_prog[0]",
+      "value": "1",
+      "referenceValue": "[1, 2]"
+    },
+    {
+      "id": 440,
+      "name": "TextField7[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 4 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table3[0].Row4[0].TextField7[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 441,
+      "name": "TextField3[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 2 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table1[0].Row2[0].TextField3[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 442,
+      "name": "TextField11[0]",
+      "nameDocument": "Column 1 of 4; Activity / Milestone; row 6 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table1[0].Row6[0].TextField11[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 443,
+      "name": "DateField5[0]",
+      "nameDocument": "Column 3 of 4; Start Date; row 3 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page8[0].Table2[0].Row3[0].DateField5[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 444,
+      "name": "txtF_fax_number2[0]",
+      "nameDocument": "Fax Number:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page1[0].txtF_fax_number2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 445,
+      "name": "chkB_Pension[0]",
+      "nameDocument": "Benefits; Pension",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDCheckBox",
+      "path": "EMP5624_E[0].Page5[0].chkB_Pension[0]",
+      "value": "1",
+      "referenceValue": "1"
+    },
+    {
+      "id": 446,
+      "name": "txtF_Employer_Signature[1]",
+      "nameDocument": "Signature of the Third-party Representative is required when the form is completed",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page9[0].txtF_Employer_Signature[1]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 447,
+      "name": "TextField6[0]",
+      "nameDocument": "Column 2 of 4; Target; row 3 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table2[0].Row3[0].TextField6[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 448,
+      "name": "DateField2[0]",
+      "nameDocument": "Column 4 of 4; End Date; row 1 of 6",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page7[0].Table1[0].Row1[0].DateField2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 449,
+      "name": "txtF_Off_use[0]",
+      "nameDocument": "For office use only",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page11[0].txtF_Off_use[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 450,
+      "name": "txtF_other_fax_number2[0]",
+      "nameDocument": "Fax Number:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page2[0].txtF_other_fax_number2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 451,
+      "name": "txtF_Family_Name3[0]",
+      "nameDocument": "Worker number 3 ; Last Name (as shown on the individual's passport:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page12[0].txtF_Family_Name3[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 452,
+      "name": "txtF_Postal_Code[0]",
+      "nameDocument": "Postal/Zip Code:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page3[0].txtF_Postal_Code[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    },
+    {
+      "id": 453,
+      "name": "txtF_last_name2[0]",
+      "nameDocument": "Last Name:",
+      "type": "org.apache.pdfbox.pdmodel.interactive.form.PDTextField",
+      "path": "EMP5624_E[0].Page1[0].txtF_last_name2[0]",
+      "value": "Default Test",
+      "referenceValue": "Default Test"
+    }
+  ]
+}
