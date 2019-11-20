@@ -77,7 +77,7 @@ public class ApplicationService {
         return application;
     }
 
-    public Application createDocument(Agent agent, File source) throws IOException {
+    public Application createDocument(Agent agent, File source, Application applicationDetails) throws IOException {
         try (PDDocument pdfDocument = PDDocument.load(source)) {
             pdfDocument.setAllSecurityToBeRemoved(true);
             // get the application catalog
@@ -90,9 +90,9 @@ public class ApplicationService {
                 documentFields = new ConcurrentLinkedQueue<>(application.getFields());
             } else {
                 application = Application.builder()
-                        .applicantName("Juan Perez")
-                        .name("document.pdf")
-                        .type("application/pdf")
+                        .applicantName(applicationDetails.getApplicantName())
+                        .name(applicationDetails.getName())
+                        .type(applicationDetails.getType())
                         .data(Files.readAllBytes(Paths.get(source.toURI())))
                         .build();
             }
@@ -128,7 +128,7 @@ public class ApplicationService {
                 .orElseThrow(() -> new RuntimeException("Agent id " + agentId + " not found"));
         String formTemplate = "src/main/resources/templates/form.pdf";
         File formDocument = new File(formTemplate);
-        return createDocument(agent, formDocument);
+        return createDocument(agent, formDocument, application);
     }
 
     public Application save(Application application) {

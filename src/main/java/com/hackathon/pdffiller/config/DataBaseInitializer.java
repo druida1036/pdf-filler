@@ -24,7 +24,14 @@ public class DataBaseInitializer implements CommandLineRunner {
         Agent agent = Agent.builder().name("Agent 1").build();
         String formTemplate = "src/main/resources/templates/form.pdf";
         File formDocument = new File(formTemplate);
-        applicationService.createDocument(agent, formDocument);
+
+        Application application = Application.builder()
+                .applicantName("Juan Perez")
+                .name("document.pdf")
+                .type("")
+                .data(Files.readAllBytes(Paths.get(formTemplate)))
+                .build();
+        applicationService.createDocument(agent, formDocument, application);
 
 //        Application application = Application.builder()
 //                .name("Juan Perez")

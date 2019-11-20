@@ -1,6 +1,7 @@
 package com.hackathon.pdffiller.controller;
 
 import com.hackathon.pdffiller.model.Application;
+import com.hackathon.pdffiller.repository.DocumentFieldRepository;
 import com.hackathon.pdffiller.service.ApplicationService;
 import org.springframework.core.io.ByteArrayResource;
 import org.springframework.core.io.Resource;
@@ -25,9 +26,11 @@ import java.util.List;
 public class ApplicationController {
 
     private ApplicationService applicationService;
+    private DocumentFieldRepository documentFieldRepository;
 
-    public ApplicationController(ApplicationService applicationService) {
+    public ApplicationController(ApplicationService applicationService, DocumentFieldRepository documentFieldRepository) {
         this.applicationService = applicationService;
+        this.documentFieldRepository = documentFieldRepository;
     }
 
     @GetMapping()
@@ -45,6 +48,13 @@ public class ApplicationController {
         return applicationService.query(id);
     }
 
+    @GetMapping("/{id}/fields")
+    public Application queryWithFields(@PathVariable Long id) {
+        Application application = applicationService.query(id);
+        application.setFields(documentFieldRepository.findByApplicationId(id));
+        return application;
+    }
+
     @PostMapping("/agent/{agentId}")
     public Application create(@PathVariable() Long agentId, @Valid @RequestBody Application application) throws IOException {
         application.setId(null);
@@ -54,7 +64,6 @@ public class ApplicationController {
     @PutMapping("/{id}")
     public Application update(@PathVariable(value = "id") Long id,
                            @Valid @RequestBody Application applicationDetails) {
-
         Application application = applicationService.query(id);
         application.setFields(applicationDetails.getFields());
         return applicationService.save( application);
