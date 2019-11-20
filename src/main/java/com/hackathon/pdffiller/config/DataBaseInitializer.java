@@ -28,17 +28,8 @@ public class DataBaseInitializer implements CommandLineRunner {
         Application application = Application.builder()
                 .applicantName("Juan Perez")
                 .name("document.pdf")
-                .type("")
-                .data(Files.readAllBytes(Paths.get(formTemplate)))
+                .type("application/pdf")
+                .data(Files.readAllBytes(Paths.get(formDocument.toURI())))
                 .build();
-        applicationService.createDocument(agent, formDocument, application);
-
-//        Application application = Application.builder()
-//                .name("Juan Perez")
-//                .type("application/pdf")
-//                .data(Files.readAllBytes(Paths.get(formDocument.toURI())))
-//                .build();
-//        agent.addApplications(application);
-//        agentRepository.save(agent);
-    }
+        applicationService.createDocument(agent, formDocument, application);    }
 }
