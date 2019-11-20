@@ -46,7 +46,8 @@ For demo proposes this API is preloaded with an application and it is filled wit
 ### Query Application Document 
 
 This Demo represent the form document as Application, an application is a combination 
-of the Applicant info and the document(from). This endpoint query one single application. 
+of the Applicant info and the document(from). This endpoint query one single application.
+For this demo use Agent ID -> 1 and Application ID -> in all endpoint to check the preloaded data.
 
 * [Application Query](http://localhost:8080/api/v1/applications/1/fields)
 ![Alt text](extras/application_api.png?raw=true "Application")
@@ -75,7 +76,11 @@ for that specific field document when it applies) as is shown below.
 ### Download Application Document 
 
 This endpoint allows to download the document form filled and example here 
-[here](extras/document.pdf)).
+[here](extras/document.pdf)). For this endpoint use postman in order to get
+the file downloaded correctly.
+
+* [Application Download (GET)](http://localhost:8080/api/v1/applications/1/downloadDocument)
+![Alt text](extras/application_api_download.png?raw=true "Application")
 
 ![Alt text](extras/document.png?raw=true "Result")
 
